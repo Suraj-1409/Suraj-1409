@@ -1,20 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there, <img  alt="hi" width="40" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png"> I'm Suraj Goswami</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Suraj+Goswami;Web+Developer;Fullstack+Developer;Mern+Stack+Developer;Backend+Developer;Frontend+Developer" alt="Typing SVG" /></a>
+</p>
 
-# 💫 Hi 👋, I'm Suraj Goswami
-**A passionate FullStack Developer || MERN Stack Developer || Backend Developer || Frontend Developer
+<div>
+  <h2 align="left" > <img  alt="hi" width="25" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif">  About Me: <h2/>
 
-Email Me 👉 ✉️ sg0600775@gmail.com For Collaboration/Project or Anything Else. 😊😊
+<h4>👨‍💻 All of my projects are available at: https://my-profile-ashen-beta.vercel.app//</h4>
+<h4>🔭 **I’m currently working on: Hotel Booking Software & a VideoMeet Software</h4>
 
-- 🔭 **I’m currently working on: Hotel Booking Software & a VideoMeet Software
-- 🌱 **I’m currently learning: Extra Languges..😊
-- 👯 **I’m looking to collaborate on:** NexaBookHotel and info..
-- 🤔 **I’m looking for :** Job as a FullStack, MERN Stack, Backend or Frontend Developer
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- ⚡ **Fun fact:** I Love Coding and Tech Love Me
+<img align="right" alt="coding" width="418" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-## 🔗 I am a Fullstack Developer. 😊😊
+<h4> 🌱 **I’m currently learning: Extra Languges..😊<h4/>
+<h4>👯 **I’m looking to collaborate on:** NexaBookHotel and info..</h4>
+<h4> 🤔 **I’m looking for :** Job as a FullStack, MERN Stack, Backend or Frontend Developer</h4>
+<h4> 💬 **Ask me about:** Collaboration, Tech Support</h4>
+<h4> 📫 **How to reach me:** sg0600775@gmail.com</h4>
+<h4> ⚡ **Fun fact:** I Love Coding and Tech Love Me</h4>
 
+<h4> 🔗 I am a Mern Stack Developer. 😊😊</h4>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suraj.goswami.1420) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itx_suraj_programmer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-goswami-87515835b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sg0600775@gmail.com) 
