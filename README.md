@@ -10,7 +10,7 @@
 <h4>👨‍💻 All of my projects are available at: https://my-profile-ashen-beta.vercel.app//</h4>
 <h4>🔭 **I’m currently working on: Hotel Booking Software & a VideoMeet Software</h4>
 
-<img align="right" alt="coding" width="418" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <h4> 🌱 **I’m currently learning: Extra Languges..😊<h4/>
 <h4>👯 **I’m looking to collaborate on:** NexaBookHotel and info..</h4>
